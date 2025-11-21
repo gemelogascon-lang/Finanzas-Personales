@@ -1,10 +1,10 @@
-fastapi             # Framework backend
-uvicorn             # Servidor para ejecutar FastAPI
-python-dotenv       # Manejo de variables de entorno
-supabase            # Cliente para conectarte a Supabase
-pandas              # Manejo y análisis de datos
-numpy               # Cálculos numéricos eficientes
-plotly              # Gráficos interactivos
-python-dateutil     # Manejo avanzado de fechas
-requests            # Para hacer solicitudes HTTP si necesitas APIs externas
-matplotlib          # necesario para graficos
+fastapi             
+uvicorn             
+python-dotenv       
+supabase            
+pandas              
+numpy               
+plotly              
+python-dateutil     
+requests            
+matplotlib
