@@ -7,3 +7,4 @@ numpy               # Cálculos numéricos eficientes
 plotly              # Gráficos interactivos
 python-dateutil     # Manejo avanzado de fechas
 requests            # Para hacer solicitudes HTTP si necesitas APIs externas
+matplotlib
